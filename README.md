@@ -1,3 +1,9 @@
+# Learn cloud formation with java
+
+以下のチュートリアルを実施。
+
+https://cdkworkshop.com/50-java.html
+
 # Welcome to your CDK Java project!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CfWithJavaStack`)
