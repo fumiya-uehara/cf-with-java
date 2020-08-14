@@ -67,6 +67,7 @@
         <dependency>
             <groupId>com.github.eladb</groupId>
             <artifactId>cdk-dynamo-table-viewer</artifactId>
+            <!-- mavenのversionを変更すると依存関係解決の際に失敗する。原因不明 -->
             <version>3.1.0</version>
         </dependency>
     </dependencies>
